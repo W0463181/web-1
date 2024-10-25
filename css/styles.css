@@ -1,0 +1,29 @@
+body {
+    background-color:cornflowerblue;
+}
+
+h1 {
+    font-size: 34px;
+    color:aliceblue;
+}
+
+li {
+    color: aliceblue
+}
+
+a {
+    font-size: 20px;
+    color: #d6c0fd;
+}
+
+.white-bg {
+    background-color:rgb(240, 248, 255);
+}
+
+.transparent-bg {
+    background-color: rgba(240, 248, 255, 0.16)
+}
+
+hr {
+    color: aliceblue;
+}
