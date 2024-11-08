@@ -1,0 +1,117 @@
+@font-face {
+    font-family: "Bebas Neue";
+    src: url(../fonts/bebas_neue/bebasneue-regular.ttf);
+}
+
+@font-face {
+    font-family: "Bona Nova SC";
+    src: url(../fonts/bona_nova_sc/bonanovasc-regular.ttf);
+}
+
+@font-face {
+    font-family: "Doto";
+    src: url(../fonts/doto/static/doto_regular.ttf);
+}
+
+@font-face {
+    font-family: "Faculty Glyphic";
+    src: url(../fonts/faculty_glyphic/facultyglyphic-regular.ttf);
+}
+
+@font-face {
+    font-family: "Geist Mono";
+    src: url(../fonts/geist_mono/static/regular.ttf);
+}
+
+@font-face {
+    font-family: "Merriweather";
+    src: url(../fonts/merriweather/merriweather-regular.ttf);
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/montserrat/static/montserrat-regular.ttf);
+}
+
+@font-face {
+    font-family: "Oswald";
+    src: url(../fonts/oswald/static/oswald-regular.ttf);
+}
+
+@font-face {
+    font-family: "Roboto Condensed";
+    src: url(../fonts/roboto_condensed/static/robotocondensed-regular.ttf);
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+.type-wrapper{
+    color: aliceblue;
+    font-family: serif;
+}
+
+.type2 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 900;
+    letter-spacing: 10px;
+    font-size: 2em
+}
+
+.type3 {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 800;
+    letter-spacing: 3px;
+    text-align: right;
+}
+
+.type4 {
+    font-family: "Doto", sans-serif;
+    font-weight: 700;
+    letter-spacing: 5px;
+    line-height: 5;
+}
+
+.type5 {
+    font-family: "Faculty Glyphic", sans-serif;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.type6 {
+    font-family: "Geist Mono", sans-serif;
+    font-weight: 500;
+    letter-spacing: -2px;
+    font-size: 2em;
+}
+
+.type7 {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    letter-spacing: 6px;
+    text-align:right
+}
+
+.type8 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    letter-spacing: 20px;
+    line-height: 4;
+}
+
+.type9 {
+    font-family: "Oswald", sans-serif;
+    font-weight: 900;
+    letter-spacing: 6px;
+    line-height: 1;
+}
+
+.type10 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: lighter;
+    letter-spacing: 3px;
+    text-align: center
+}
+
