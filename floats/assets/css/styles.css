@@ -1,0 +1,91 @@
+.yellow-container {
+    background-color: yellow;
+    width: 700px;
+    height: 950px;
+    margin: auto;
+}
+
+.green-container {
+    display: inline-block;
+    background-color: green;
+    width: 600px;
+    height: 175px;
+    margin: 20px 50px auto;
+}
+
+.blue-container {
+    display: inline-block;
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    margin: 13px;
+}
+
+.tan-container {
+    background-color: tan;
+    width: 150px;
+    height: 150px;
+    margin: 13px;
+    float: right;
+}
+
+.dark-teal-container {
+    display: inline-block;
+    background-color: teal;
+    width: 600px;
+    height: 355px;
+    margin: 20px 50px auto;
+}
+    
+.white-container {
+    display: inline-block;
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin: 13px;
+}
+
+.black-container {
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    margin: 13px;
+    float: right;
+}
+
+.orange-container {
+    background-color: orange;
+    width: 575px;
+    height: 150px;
+    margin: auto;
+}
+
+.burgundy-container {
+    display: inline-block;
+    background-color: #611f1f;
+    width: 600px;
+    height: 300px;
+    margin: 20px 50px auto;
+}
+
+.purple-container {
+    background-color: rebeccapurple;
+    width: 150px;
+    height: 150px;
+    margin: 13px;
+    float: left;
+}
+
+.centre {
+    text-align: center;
+}
+
+.centre-white {
+    text-align: center;
+    color: white;
+}
+
+.white {
+    color: white;
+    margin: 25px;
+}
