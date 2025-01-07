@@ -43,8 +43,9 @@ h3 {
 }
 
 .img-two {
+    float: left;
     margin-right: 150px;
-     margin-top: 50px;
+    margin-top: 50px;
 }
 
 .text-three, .img-three {
@@ -55,7 +56,7 @@ h3 {
 
 .img-three {
     margin-left: 150px;
-     margin-top: 50px;
+    margin-top: 50px;
 }
 
 .text-four, .img-four {
@@ -65,5 +66,7 @@ h3 {
 }
 
 .img-four {
+    float:left;
     margin-right: 150px;
+    margin-top: 70px;
 }
