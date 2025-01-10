@@ -3,13 +3,17 @@ body {
 }
 
 h1 {
-    text-align-last: center;
+    text-align: center;
     color: aliceblue;
     font-size: 2.5em;
 }
 
 nav {
     text-align-last: center;
+    color: aliceblue;
+}
+
+hr {
     color: aliceblue;
 }
 
