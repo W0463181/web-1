@@ -288,11 +288,13 @@ input {
     .our-services {
         flex-direction: column;
         gap: 20px;
+        max-width: none;
     }
     
     .our-services .inner-container{
         flex-direction: column;
-        gap: 20px;
+        gap: 56px;
+        max-width: none;
     }
     
     .services {
@@ -303,7 +305,7 @@ input {
     
     .service {
         flex-direction: column;
-        gap: 20px;
+        gap: 30px;
         max-width: none;
     }
     
@@ -323,7 +325,7 @@ input {
     
     .testimonial .inner-container {
         flex-direction: column-reverse;
-        gap: 20px;
+        gap: 16px;
     }
     
     .testimonial .text {
@@ -338,7 +340,7 @@ input {
     /* Pricing Section */
     .pricing {
         flex-direction: column;
-        gap: 20px;
+        gap: 76px;
         max-width: none;
     }
     
